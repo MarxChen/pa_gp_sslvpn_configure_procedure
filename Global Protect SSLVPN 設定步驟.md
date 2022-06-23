@@ -3,4 +3,5 @@
 - Auth profile
 - pool
 
-![/photo/0_Topology 2022-03-09 09.27.26.png]
+!(架構圖)[https://github.com/MarxChen/pa_gp_sslvpn_configure_procedure/blob/main/photo/0_Topology%202022-03-09%2009.27.26.png]
+
